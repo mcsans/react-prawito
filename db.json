@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1668753719832,
+      "title": "Test Blog 1",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, voluptatem.",
+      "userId": 1
+    },
+    {
+      "id": 1668753728115,
+      "title": "Test Blog 2",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, voluptatem.",
+      "userId": 1
+    },
+    {
+      "id": 1668753734212,
+      "title": "Test Blog 3",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore, voluptatem.",
+      "userId": 1
+    },
+    {
+      "id": 1668857745267,
+      "title": "nama",
+      "body": "nama",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
